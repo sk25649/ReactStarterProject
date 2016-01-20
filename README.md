@@ -1,7 +1,6 @@
-ReactStarter
+ReactStarterProject
 ====
-
-Use this as a starting point for working on chapters of the [Build Web Apps with React JS and Flux](https://www.udemy.com/learn-and-understand-reactjs/) course on Udemy.com.
+My version of ReactStarter from Udemy Course (https://www.udemy.com/learn-and-understand-reactjs/) 
 
 ---
 
@@ -13,8 +12,8 @@ There are two methods for getting started with this repo.
 Checkout this repo, install depdencies, then start the gulp process with the following:
 
 ```
-	> git clone git@github.com:StephenGrider/ReactStarter.git
-	> cd ReactStarter
+	> git clone https://github.com/sk25649/ReactStarterProjec.git
+	> cd ReactStarterProject
 	> npm install
 	> gulp
 ```
